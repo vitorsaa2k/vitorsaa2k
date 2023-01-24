@@ -1,6 +1,9 @@
 ## Ja centralizou uma div hoje?
-
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorsaa2k&show_icons=true&theme=transparent)
+<div>
+  <img height='180em' src='https://stats-api-eight.vercel.app/api?username=vitorsaa2k&show_icons=true&theme=transparent' />
+  <img height='180em' src='https://stats-api-eight.vercel.app/api/top-langs/?username=vitorsaa2k&layout=compact&theme=transparent' />
+</div>
+<img width='432em' src='https://stats-api-eight.vercel.app/api/wakatime?username=@vitorsaa2k&layout=compact&theme=transparent&hide=Markdown,git,bash,xml' />
 
 
 ### Main Technologies
@@ -10,10 +13,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-[![vitor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@vitorsaa2k&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsaa2k&layout=compact)](https://github.com/vitorsaa2k/repositories)
 
 
 ### Principais contribuições (Open-Source)
