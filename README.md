@@ -6,7 +6,7 @@
 <img width='432em' src='https://stats-api-eight.vercel.app/api/wakatime?username=@vitorsaa2k&layout=compact&theme=transparent&hide=Markdown,git,bash,xml,yaml,other' />
 
 
-### Main Technologies
+### Principais tecnologias
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
