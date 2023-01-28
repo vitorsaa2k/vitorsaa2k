@@ -19,4 +19,4 @@
 
 - https://github.com/sugarlabs/musicblocks-v4/pull/308
 
-Leia em [Português](https://github.com/vitorsaa2k/vitorsaa2k/README.md)
+Leia em [Português](https://github.com/vitorsaa2k/vitorsaa2k/blob/main/README.md)
