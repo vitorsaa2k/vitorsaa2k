@@ -1,10 +1,10 @@
 ## Ja centralizou uma div hoje?
 <div>
-  <img height='180em' src='https://stats-api-eight.vercel.app/api?username=vitorsaa2k&show_icons=true&theme=transparent' />
-  <img height='180em' src='https://stats-api-eight.vercel.app/api/top-langs/?username=vitorsaa2k&layout=compact&theme=transparent' />
+  <img height='180em' src='https://stats-api-vitorsaa2k.vercel.app/api?username=vitorsaa2k&show_icons=true&theme=transparent' />
+  <img height='180em' src='https://stats-api-vitorsaa2k.vercel.app/api/top-langs/?username=vitorsaa2k&layout=compact&theme=transparent' />
 </div>
 <img width='432em' src='https://stats-api-eight.vercel.app/api/wakatime?username=@vitorsaa2k&layout=compact&theme=transparent&hide=Markdown,git,bash,xml,yaml,other' />
-
+stats-api-vitorsaa2k.vercel.app
 
 ### Principais tecnologias
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
