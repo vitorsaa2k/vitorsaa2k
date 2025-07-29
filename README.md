@@ -1,4 +1,9 @@
-## Ja centralizou uma div hoje?
+## Já centralizou uma div hoje?
+### Read this in [English](https://github.com/vitorsaa2k/vitorsaa2k/blob/main/README-en.md)
+## Confira/Contribua
+Meu projeto mais recente: [Gerenciador de Entregas (SaaS)](https://github.com/vitorsaa2k/Got-Delivery)
+
+Meu maior projeto: [Cassino de Counter-Strike](https://github.com/vitorsaa2k/cs2)
 <div>
   <img height='180em' src='https://stats-api-vitorsaa2k.vercel.app/api?username=vitorsaa2k&show_icons=true&theme=transparent' />
   <img height='180em' src='https://stats-api-vitorsaa2k.vercel.app/api/top-langs/?username=vitorsaa2k&layout=compact&theme=transparent' />
@@ -17,4 +22,3 @@
 
 - https://github.com/sugarlabs/musicblocks-v4/pull/308
 
-Read this in [English](https://github.com/vitorsaa2k/vitorsaa2k/blob/main/README-en.md)
