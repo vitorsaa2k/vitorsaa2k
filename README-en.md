@@ -1,9 +1,14 @@
-## Have you centrilized a div today?
+## Have you centralized a div today?
+### Leia em [Português](https://github.com/vitorsaa2k/vitorsaa2k/blob/main/README.md)
+
+## Check out/Contribute
+My most recent project: [Delivery Manager (SaaS)](https://github.com/vitorsaa2k/Got-Delivery)
+
+My biggest project: [Counter-Strike Cassino](https://github.com/vitorsaa2k/cs2)
 <div>
   <img height='180em' src='https://stats-api-eight.vercel.app/api?username=vitorsaa2k&show_icons=true&theme=transparent' />
   <img height='180em' src='https://stats-api-eight.vercel.app/api/top-langs/?username=vitorsaa2k&layout=compact&theme=transparent' />
 </div>
-<img width='432em' src='https://stats-api-eight.vercel.app/api/wakatime?username=@vitorsaa2k&layout=compact&theme=transparent&hide=Markdown,git,bash,xml,yaml,other' />
 
 
 ### Main technologies
@@ -19,4 +24,4 @@
 
 - https://github.com/sugarlabs/musicblocks-v4/pull/308
 
-Leia em [Português](https://github.com/vitorsaa2k/vitorsaa2k/blob/main/README.md)
+
